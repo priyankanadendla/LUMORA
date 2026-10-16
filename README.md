@@ -2,11 +2,6 @@
 
 A modern trip planning website built using HTML, CSS, and JavaScript.
 
-## Website Links
-
-- GitHub Repository: https://github.com/priyankanadendla/LUMORA
-- Live Website: https://priyankanadendla.github.io/LUMORA/
-
 ## Features
 
 - Trip Planner
