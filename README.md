@@ -1,52 +1,26 @@
-#  LUMORA – Trip Planner Website
+﻿# LUMORA - Trip Planner Website
 
-LUMORA is a modern website designed to help users plan their trips easily. It includes a Trip Planner interface with travel details and planning options.
+A modern trip planning website built using HTML, CSS, and JavaScript.
 
-##  Project Links
+## Website Links
 
-- **GitHub Repository:** https://github.com/priyankanadendla/LUMORA
-- **Live Website:** https://priyankanadendla.github.io/LUMORA/
+- GitHub Repository: https://github.com/priyankanadendla/LUMORA
+- Live Website: https://priyankanadendla.github.io/LUMORA/
 
-> Note: The live website link will work after GitHub Pages is enabled and the site is successfully published.
+## Features
 
-##  Features
-
-- Modern and attractive user interface
-- Trip Planner section
+- Trip Planner
 - Destination selection
 - Travel style selection
-- Start date and trip duration options
+- Start date and trip duration
 - Traveller and budget details
-- Interactive website elements
 
-##  Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-##  Project Structure
+## Author
 
-```text
-LUMORA/
-└── lumora-advanced/
-    ├── index.html
-    ├── style.css
-    ├── script.js
-    └── README.txt
-```
-
-##  How to Run Locally
-
-1. Download or clone this repository.
-2. Open the project folder in Visual Studio Code.
-3. Open `index.html` using the Live Server extension.
-4. Explore the website in your browser.
-
-##  Author
-
-**Priyanka Nadendla**
-
-##  License
-
-This project is created for educational and demonstration purposes.
+Priyanka Nadendla
